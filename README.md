@@ -44,7 +44,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ideal-softer/IWDL.git
+   git clone https://github.com/denysOstroverkh/IWDL.git
    cd IWDL
    npm install
    npm run dev
