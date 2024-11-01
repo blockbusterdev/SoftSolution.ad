@@ -1,0 +1,59 @@
+.page.contact {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  gap: 1em;
+
+  .group {
+    width: 100%;
+    max-width: 768px;
+    border: 1px solid $chocolate-color;
+    padding: 1em;
+    border-radius: 0.5em;
+
+    .welcome {
+      text-align: center;
+      color: $white-color;
+      margin-bottom: 0.5em;
+    }
+
+    .contact {
+      font-size: 0.8em;
+      padding-bottom: 0.5em;
+    }
+
+    .inputs {
+      display: flex;
+      flex-direction: column;
+
+      .input {
+        margin-bottom: 0.5em;
+      }
+    }
+
+    .status {
+      height: 2em;
+      text-align: center;
+
+      &.warn {
+        color: $brown-color;
+      }
+      &.err {
+        color: $pink-color;
+      }
+      &.success {
+        color: $green-color;
+      }
+    }
+
+    .buttons {
+      padding-top: 0.5em;
+      text-align: right;
+
+      button {
+        background: $sky-color;
+      }
+    }
+  }
+}

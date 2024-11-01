@@ -1,0 +1,149 @@
+@keyframes alterHomeImage {
+  0% {
+    left: -100%;
+  }
+
+  12.5% {
+    left: 0%;
+  }
+
+  25% {
+    left: 0%;
+  }
+
+  37.5% {
+    left: 100%;
+  }
+
+  100% {
+    left: 100%;
+  }
+}
+
+.page.home {
+  > div:nth-child(1) {
+    border-radius: 1em;
+    position: relative;
+    width: 100%;
+    padding-top: 43.74%;
+    overflow: hidden;
+
+    img {
+      top: 0px;
+      position: absolute;
+      width: 100%;
+      animation: alterHomeImage 16s infinite;
+
+      &:nth-child(1) {
+        animation-delay: -2s;
+      }
+      &:nth-child(2) {
+        animation-delay: -14s;
+      }
+      &:nth-child(3) {
+        animation-delay: -10s;
+      }
+      &:nth-child(4) {
+        animation-delay: -6s;
+      }
+    }
+  }
+
+  div.pad {
+    div.item {
+      &:nth-child(1) {
+        background: $verdure-color;
+      }
+      &:nth-child(2) {
+        background: $brown-color;
+      }
+      &:nth-child(2) {
+        background: $brown-color;
+      }
+      &:nth-child(3) {
+        background: $sky-color;
+      }
+    }
+  }
+
+  div.description {
+    display: flex;
+    gap: 1em;
+    align-items: center;
+
+    img {
+      flex-grow: 1;
+    }
+
+    h1.text {
+      flex-grow: 4;
+    }
+
+    margin-bottom: 1em;
+  }
+
+  div.solutions {
+    display: flex;
+    gap: 1em;
+
+    > div:nth-child(1) {
+      flex-grow: 1;
+      display: flex;
+      justify-content: center;
+    }
+
+    > div:nth-child(2) {
+      h1 {
+        color: $white-color;
+      }
+
+      > h2 {
+        animation: highlight 12s infinite;
+      }
+
+      > h2:nth-child(2) {
+        animation-delay: 0s;
+      }
+      > h2:nth-child(3) {
+        animation-delay: 2s;
+      }
+      > h2:nth-child(4) {
+        animation-delay: 4s;
+      }
+      > h2:nth-child(5) {
+        animation-delay: 6s;
+      }
+      > h2:nth-child(6) {
+        animation-delay: 8s;
+      }
+      > h2:nth-child(7) {
+        animation-delay: 10s;
+      }
+    }
+  }
+
+  div.tagline {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+    padding-top: 1em;
+    margin: 1em 0em;
+    border-top: 1px dotted $chocolate-color;
+    color: $gold-color;
+
+    .title {
+      font-weight: bold;
+      text-decoration: underline;
+    }
+
+    img {
+      height: 4em;
+      width: 4em;
+    }
+
+    h1 {
+      text-align: center;
+    }
+  }
+}

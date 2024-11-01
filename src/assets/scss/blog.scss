@@ -1,0 +1,50 @@
+.page.blog {
+  font-size: 2em;
+  font-weight: bold;
+  color: $white-color;
+
+  .item {
+    padding: 0.5em 0.5em 0.1em 0.5em;
+    background: $pitch-color;
+    border-radius: 0.3em;
+    box-shadow: 4px 4px 8px $black-color;
+
+    > div.title {
+      font-size: 0.5em;
+      width: 100%;
+      font-weight: bold;
+      color: $gold-color;
+    }
+
+    > div.date {
+      font-size: 0.4em;
+      height: 1.2em;
+      text-align: right;
+      overflow: hidden;
+      color: $green-color;
+      flex-wrap: wrap;
+    }
+
+    > div.description {
+      font-size: 0.4em;
+      width: 100%;
+      overflow: hidden;
+      color: $gray-color;
+      text-align: justify;
+    }
+
+    > div.bottom {
+      font-size: 0.4em;
+      padding-top: 0.5em;
+
+      > span {
+        cursor: pointer;
+        color: $gray-color;
+
+        &:hover {
+          color: $bright-color;
+        }
+      }
+    }
+  }
+}
