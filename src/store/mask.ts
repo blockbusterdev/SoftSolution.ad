@@ -1,6 +1,6 @@
 /**
  * Visible or hidden mask - Redux-slice
- * @author Jiners Enoheart
+ * @author Denys Ostroverkh
  * @published July 26, 2024
  * @modified July 26, 2024
  */

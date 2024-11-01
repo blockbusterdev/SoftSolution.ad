@@ -1,6 +1,6 @@
 /**
  * Page - Contact page-component
- * @author Jiners Enoheart
+ * @author Denys Ostroverkh
  * @published 2024/08/02
  * @modified  2024/08/02
  */

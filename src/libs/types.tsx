@@ -1,6 +1,6 @@
 /**
- * Some structure types defined by Jiners
- * @author Jiners Enoheart
+ * Some structure types defined by Denys
+ * @author Denys Ostroverkh
  * @published July 25, 2024
  * @modified July 25, 2024
  */

@@ -1,6 +1,6 @@
 /**
  * Server-side modules to send email
- * @author Jiners Enoheart
+ * @author Denys Ostroverkh
  * @published July 26, 2024
  * @modified July 26, 2024
  */

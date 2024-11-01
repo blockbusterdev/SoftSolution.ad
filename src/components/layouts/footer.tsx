@@ -1,6 +1,6 @@
 /**
  * Page - Home component
- * @author Jiners Enoheart
+ * @author Denys Ostroverkh
  * @published 2024/07/25
  * @modified  2024/07/25
  */

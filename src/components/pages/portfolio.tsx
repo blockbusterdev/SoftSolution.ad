@@ -1,6 +1,6 @@
 /**
  * Page - Portfolio page-component
- * @author Jiners Enoheart
+ * @author Denys Ostroverkh
  * @published 2024/07/31
  * @modified  2024/07/31
  */

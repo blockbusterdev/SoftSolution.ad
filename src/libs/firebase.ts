@@ -4,13 +4,13 @@ import { getFirestore } from 'firebase/firestore'
 
 /** Set credential to Firestore */
 const firebaseConfig = {
-  apiKey: "AIzaSyBiPixTrDiAFCQQwaHl1KUIOcXCe54L1AI",
-  authDomain: "iwdl-7a927.firebaseapp.com",
-  projectId: "iwdl-7a927",
-  storageBucket: "iwdl-7a927.appspot.com",
-  messagingSenderId: "894877636585",
-  appId: "1:894877636585:web:b82be3fca71c7ed4c9dd78",
-  measurementId: "G-WG0558HDSV"
+  apiKey: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+  authDomain: "XXXX-XXXXX.firebaseapp.com",
+  projectId: "XXXX-XXXXX",
+  storageBucket: "XXXX-XXXXX.appspot.com",
+  messagingSenderId: "0000000000",
+  appId: "0:0000000000:web:XXXXXXXXXXXXXXXX",
+  measurementId: "G-XXXXXXXXXXXXX"
 }
 
 // Initialize Firebase if it hasn't been initialized already
