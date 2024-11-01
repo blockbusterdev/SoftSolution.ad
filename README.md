@@ -1,6 +1,6 @@
 # IWDL Company Website
 
-This repository contains the codebase for the IWDL company website. The project is built using Next.js, Tailwind CSS, and TypeScript. Its style sheets are compiled using Sass. And It interacts with Firestore to retrieve and store internal data.
+This repository contains the codebase for the IWDL company website. The project is built using Next.js, Tailwind CSS, and TypeScript. Its style sheets are compiled using Sass. And It interacts with Firestore to retrieve and store internal data. Lastly, it’s compatible with Gmail for sending emails through the contact page.
 
 ![Alt text](./preview.png)
 
@@ -26,6 +26,7 @@ The IWDL company website is designed to provide information about IWDL's service
 - **Sass**: A CSS preprocessor and compiler used to create maintainable, modular, and reusable stylesheets, enhancing the styling workflow.
 - **TypeScript**: A typed superset of JavaScript that enhances code reliability by providing type safety.
 - **Firestore**: A cloud-based NoSQL database used for real-time data retrieval and storage, allowing for scalable and flexible data management.
+- **GMAIL**: Utilizes Gmail’s reliable SMTP server to send emails directly from the contact page, ensuring secure and efficient delivery.
 
 ## Getting Started
 
