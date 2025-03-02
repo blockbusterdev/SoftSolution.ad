@@ -1,6 +1,6 @@
 /**
  * Visible or hidden mask - Redux-slice
- * @author Denys Ostroverkh
+ * @author Soft Voyager
  * @published July 26, 2024
  * @modified July 26, 2024
  */

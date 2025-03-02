@@ -1,6 +1,6 @@
 /**
  * Page - Home page-component
- * @author Denys Ostroverkh
+ * @author Soft Voyager
  * @published 2024/07/25
  * @modified  2024/08/04
  */

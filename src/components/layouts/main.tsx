@@ -1,6 +1,6 @@
 /**
  * Header component in Layout
- * @author Denys Ostroverkh
+ * @author Soft Voyager
  * @published 2024/07/24
  * @modified  2024/08/02
  */

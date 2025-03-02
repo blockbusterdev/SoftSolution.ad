@@ -1,6 +1,6 @@
 /**
- * Some structure types defined by Denys
- * @author Denys Ostroverkh
+ * Some structure types defined by Soft Voyager
+ * @author Soft Voyager
  * @published July 25, 2024
  * @modified July 25, 2024
  */

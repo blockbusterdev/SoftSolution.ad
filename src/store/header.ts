@@ -1,6 +1,6 @@
 /**
  * Visible or hidden sub-header - Redux-slice
- * @author Denys Ostroverkh
+ * @author Soft Voyager
  * @published Aug 03, 2024
  * @modified Aug 03, 2024
  */

@@ -1,6 +1,6 @@
 /**
  * Page - Portfolio page-component
- * @author Denys Ostroverkh
+ * @author Soft Voyager
  * @published 2024/07/31
  * @modified  2024/07/31
  */
