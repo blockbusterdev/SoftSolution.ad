@@ -1,4 +1,4 @@
-# IWDL Company Website
+# Company Advertising Website
 
 This repository contains the codebase for the IWDL company website. The project is built using Next.js, Tailwind CSS, and TypeScript. Its style sheets are compiled using Sass. And It interacts with Firestore to retrieve and store internal data. Lastly, it’s compatible with Gmail for sending emails through the contact page.
 
