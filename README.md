@@ -1,6 +1,6 @@
 # Company Advertising Website
 
-This repository contains the codebase for the IWDL company website. The project is built using Next.js, Tailwind CSS, and TypeScript. Its style sheets are compiled using Sass. And It interacts with Firestore to retrieve and store internal data. Lastly, it’s compatible with Gmail for sending emails through the contact page.
+This repository contains the codebase for advertising of Software development company. The project is built using Next.js, Tailwind CSS, and TypeScript. Its style sheets are compiled using Sass. And It interacts with Firestore to retrieve and store internal data. Lastly, it’s compatible with Gmail for sending emails through the contact page.
 
 ![Alt text](./preview.png)
 
@@ -17,7 +17,7 @@ This repository contains the codebase for the IWDL company website. The project 
 
 ## Introduction
 
-The IWDL company website is designed to provide information about IWDL's services, team, and projects. It is a modern, responsive, and performant web application.
+This company advertising website is designed to provide information about services provided, team, and projects. It is a modern, responsive, and performant web application.
 
 ## Features
 
@@ -44,8 +44,8 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/devtwinkler/IWDL.git
-   cd IWDL
+   git clone https://github.com/devtwinkler/SoftSolution.ad.git
+   cd SoftSolution.ad
    npm install
    npm run dev
 
